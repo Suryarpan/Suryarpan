@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suryarpan
-- 👀 I’m interested in Various Things
-- 🌱 I’m currently learning techniques regarding high performance computing
+- 👀 I’m interested in web development related activities
+- 🌱 I’m currently working on Flask based REST API and Angular based frontend projects
 
 <!---
 Suryarpan/Suryarpan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
